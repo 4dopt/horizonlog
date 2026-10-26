@@ -1,0 +1,30 @@
+# Temporary scraping, raw dumps and test scripts
+raw_pages/
+preview_screenshots/
+*.json
+scraped_page.html
+temp_check.html
+debug_vp.*
+capture_mobile_drawer.js
+check_overflow.js
+clean_content.js
+download_assets.js
+download_more.js
+download_raw_pages.js
+extract_text.js
+find_culprits.js
+inspect_details.js
+inspect_site.js
+organize_assets.js
+parse_full_content.js
+print_subpages.js
+scrape_subpages.js
+update_headers.js
+upgrade_pages.js
+verify_site.js
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
